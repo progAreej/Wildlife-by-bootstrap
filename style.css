@@ -1,0 +1,9 @@
+
+.footer{
+    justify-content: space-between;
+}
+ a:hover{
+    color: green;
+    background-color: yellow;
+    /* border: 0px solid green; */
+}
